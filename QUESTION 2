@@ -1,0 +1,26 @@
+import java.utol.Scanner;
+public class ConsoleSales {
+public static void main (String[] args) {
+
+Scanner sc = new Scanner (System.in);
+
+int[]total amount of sales
+
+for (int i = 0; i <salesAMOUNT; I++){
+
+System.out.print("enter amount" + (i+1) + ": ");
+
+marks[i] = sc.nextInt()
+
+String getConsoletYPE();
+STRING getStore();
+int getTotalSales();
+
+
+
+         
+     
+        
+      
+    }
+}
